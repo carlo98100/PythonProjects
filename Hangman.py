@@ -9,7 +9,6 @@ completeWord = "apple"
 userGuessing = ""
 firstTime = True
 keepGoing = True
-test = True
 
 for char in completeWord:
     userGuessing += "?"
