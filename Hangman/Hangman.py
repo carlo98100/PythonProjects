@@ -81,7 +81,7 @@ print("Welcome to the hangman")
 print(WordBuild)
 
 while(completeWord != WordBuild) :
-    if(tries < 5) :
+    if(tries < 4) :
         
         if(firstTime == True) :
 
@@ -94,11 +94,9 @@ while(completeWord != WordBuild) :
             charExist = False
 
         else :
-
+            DrawHangMan(tries)
             userGuess = input("Sorry, that character dosen't exist in the current word, try again: ").lower()
             tries += 1
-
-        DrawHangMan(tries)
 
 
         for index, char in enumerate(completeWord, start=0) :
