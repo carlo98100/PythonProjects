@@ -18,16 +18,6 @@ print("Welcome to Guess the number")
 print(rightNumber)
 
 
-
-# def CheckIfRightNumber():
-#     if(guess == rightNumber) :
-#         print("Rätt")
-#         keepGoing = False
-#     else :
-#         print("Inte rätt")
-#         guess = int(input("Wrong number, try again: "))
-
-
 while(keepGoing) :
 
     if(firstTime == True) :
@@ -36,8 +26,8 @@ while(keepGoing) :
 
 
     if(guess == rightNumber) :
-        print("Rätt")
+        print("Right answer")
         keepGoing = False
+
     else :
-        print("Inte rätt")
         guess = int(input("Wrong number, try again: "))
