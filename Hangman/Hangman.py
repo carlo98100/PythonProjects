@@ -107,7 +107,8 @@ while(completeWord != WordBuild) :
 
         print(WordBuild)
         
-    else: 
+    else:
+        DrawHangMan(tries)
         print("Sorry you dont have any more tries. Better luck next time!")
         break
 
