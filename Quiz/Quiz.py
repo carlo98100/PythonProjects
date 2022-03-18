@@ -17,9 +17,18 @@ def StartQuiz(quizCategory):
         allQuizQuestions = json.load(file)
         categoryQuizQuestions = allQuizQuestions[quizCategory]
         totalAmountOfQuestions = len(categoryQuizQuestions)
+        
 
         for question in categoryQuizQuestions :
-            questionAnswer = input("\n" + question["Question"] + "\n")
+            exampleAnswers = ""
+            
+            for possibleAnswer in question["ExampleAnswers"] :
+                exampleAnswers += "\u2022 " + possibleAnswer + "\n"
+
+            questionAnswer = input("\n" + question["Question"] + " Answers: \n" + exampleAnswers + "\nYour answer: "
+            
+            
+            )
 
             if(questionAnswer.lower() == question["Answer"].lower()) :
 

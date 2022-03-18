@@ -1,83 +1,196 @@
 {
     "Sport": [
         {
-            "Name": "question 1",
-            "Question": "Whos the most fameous basketball player",
-            "Answer": "Michael Jordan"
+            "Question": "Whos the best statistic soccer player?",
+            "Answer": "Lionell Messi",
+            "ExampleAnswers": [
+                "Lionell Messi",
+                "Christiano Ronaldo",
+                "Zlatan Ibrahimovic"
+            ]
         },
         {
-            "Name": "question 2",
-            "Question": "Whos the most fameous basketball player",
-            "Answer": "Michael Jordan"
+            "Question": "What is the name of the thing that ichockey players having on their head?",
+            "Answer": "Helmet",
+            "ExampleAnswers": [
+                "Hat",
+                "They dont have anything on their head",
+                "Helmet"
+            ]
         },
         {
-            "Name": "question 3",
-            "Question": "Whos the most fameous basketball player",
-            "Answer": "Michael Jordan"
+            "Question": "How many players are there on the soccer field in the same time?",
+            "Answer": "22",
+            "ExampleAnswers": [
+                "11",
+                "22",
+                "10"
+            ]
         },
         {
-            "Name": "question 4",
-            "Question": "Whos the most fameous basketball player",
-            "Answer": "Michael Jordan"
+            "Question": "For how long do a soccergame last?",
+            "Answer": "90",
+            "ExampleAnswers": [
+                "75",
+                "90",
+                "45"
+            ]
         },
         {
-            "Name": "question 5",
             "Question": "Whos the most fameous basketball player",
-            "Answer": "Michael Jordan"
+            "Answer": "Michael Jordan",
+            "ExampleAnswers": [
+                "Michael Jordan",
+                "test1",
+                "test1"
+            ]
+        },
+        {
+            "Question": "Who is the most famous soccer player in Sweden?",
+            "Answer": "Zlatan Ibrahimovic",
+            "ExampleAnswers": [
+                "Zlatan Ibrahimovic",
+                "Alexander Isak",
+                "Marcus Berg"
+            ]
+        },
+        {
+            "Question": "Which soccer team won the Swedish league 'Allsvenskan'?",
+            "Answer": "MFF",
+            "ExampleAnswers": [
+                "Djurgården",
+                "AIK",
+                "MFF"
+            ]
+        },
+        {
+            "Question": "In which country do Manchester united play?",
+            "Answer": "England",
+            "ExampleAnswers": [
+                "Sweden",
+                "England",
+                "Brasil"
+            ]
+        },
+        {
+            "Question": "Do there exist a league with the name 'Challenger League'?",
+            "Answer": "No",
+            "ExampleAnswers": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "Question": "Which player has the shortname 'CR7'?",
+            "Answer": "Christiano Ronaldo",
+            "ExampleAnswers": [
+                "Christiano Ronaldo",
+                "Lionell Messi",
+                "Mesut Özil"
+            ]
+        },
+        {
+            "Question": "For which country do Robert Lewandowski plays for?",
+            "Answer": "Poland",
+            "ExampleAnswers": [
+                "Germany",
+                "French",
+                "Poland"
+            ]
         }
     ],
     "Programming": [
         {
-            "Name": "question 1",
-            "Question": "Whats the best programming language in the world",
-            "Answer": "C#"
+            "Question": "Who is the most famous soccer player in Sweden?",
+            "Answer": "C#",
+            "ExampleAnswers": [
+                "Zlatan Ibrahimovic",
+                "Alexander Isak",
+                "Marcus Berg"
+            ]
         },
         {
-            "Name": "question 2",
             "Question": "Whats the best programming language in the world",
-            "Answer": "C#"
+            "Answer": "C#",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         },
         {
-            "Name": "question 3",
             "Question": "Whats the best programming language in the world",
-            "Answer": "C#"
+            "Answer": "C#",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         },
         {
-            "Name": "question 4",
             "Question": "Whats the best programming language in the world",
-            "Answer": "C#"
+            "Answer": "C#",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         },
         {
-            "Name": "question 5",
             "Question": "Whats the best programming language in the world",
-            "Answer": "C#"
+            "Answer": "C#",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         }
     ],
     "Food": [
         {
-            "Name": "question 1",
             "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger"
+            "Answer": "Hamburger",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         },
         {
-            "Name": "question 2",
             "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger"
+            "Answer": "Hamburger",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         },
         {
-            "Name": "question 3",
             "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger"
+            "Answer": "Hamburger",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         },
         {
-            "Name": "question 4",
             "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger"
+            "Answer": "Hamburger",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         },
         {
-            "Name": "question 5",
             "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger"
+            "Answer": "Hamburger",
+            "ExampleAnswers": [
+                "test1",
+                "test1",
+                "test1"
+            ]
         }
     ]
 }
