@@ -1,21 +1,25 @@
-
 import random
 
 
 
-global dice
+global dices
 
 
-one = ".-------.\n|       |\n|   o   |\n|       |\n|_______|"
-two = ".-------.\n|     o |\n|       |\n| o     |\n|_______|"
-three = ".-------.\n|     o |\n|   o   |\n| o     |\n|_______|"
-four =  ".-------.\n| o   o |\n|       |\n| o   o |\n|_______|"
-five =  ".-------.\n| o   o |\n|   o   |\n| o   o |\n|_______|"
-six =   ".-------.\n| o   o |\n| o   o |\n| o   o |\n|_______|"
-
-dice = [one, two, three, four, five, six]
+def DrawDice(dice1, dice2) :
+    for x in range(5) :
+        print(dices[dice1][x] + "   " + dices[dice2][x])
 
 
+one = [".-------.","|       |","|   o   |","|       |","|_______|"]
+two = [".-------.","|     o |","|       |","| o     |","|_______|"]
+three = [".-------.","|     o |","|   o   |","| o     |","|_______|"]
+four = [".-------.","| o   o |","|       |","| o   o |","|_______|"]
+five = [".-------.","| o   o |","|   o   |","| o   o |","|_______|"]
+six = [".-------.","| o   o |","| o   o |","| o   o |","|_______|"]
 
-print(dice[random.randint(0,5)])
-print(dice[random.randint(0,5)])
+
+dices = [one, two, three, four, five, six]
+
+
+DrawDice(random.randint(0,5), random.randint(0,5))
+print()
