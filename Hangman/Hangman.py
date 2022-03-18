@@ -94,6 +94,7 @@ while(completeWord != WordBuild) :
             charExist = False
 
         else :
+            print(tries)
             DrawHangMan(tries)
             userGuess = input("Sorry, that character dosen't exist in the current word, try again: ").lower()
             tries += 1
@@ -107,7 +108,8 @@ while(completeWord != WordBuild) :
 
         print(WordBuild)
         
-    else: 
+    else:
+        DrawHangMan(tries)
         print("Sorry you dont have any more tries. Better luck next time!")
         break
 
