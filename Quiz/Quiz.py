@@ -55,6 +55,8 @@ def ChooseQuizCategory() :
             StartQuiz("Programming")
         case 3:
             StartQuiz("Food")
+        case 4:
+            StartQuiz("General")
 
 
 

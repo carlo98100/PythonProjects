@@ -97,99 +97,101 @@
                 "French",
                 "Poland"
             ]
+        },
+        {
+            "Question": "Which country do Soccer VM plays in 2022?",
+            "Answer": "Qatar",
+            "ExampleAnswers": [
+                "Brasil",
+                "Qatar",
+                "Russia"
+            ]
         }
     ],
     "Programming": [
         {
-            "Question": "Who is the most famous soccer player in Sweden?",
-            "Answer": "C#",
+            "Question": "What is the most common Programming language?",
+            "Answer": "C",
             "ExampleAnswers": [
-                "Zlatan Ibrahimovic",
-                "Alexander Isak",
-                "Marcus Berg"
+                "C",
+                "Python",
+                "Java"
             ]
         },
         {
-            "Question": "Whats the best programming language in the world",
-            "Answer": "C#",
+            "Question": "What is the easiest language to learn?",
+            "Answer": "HTML",
             "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
-            ]
-        },
-        {
-            "Question": "Whats the best programming language in the world",
-            "Answer": "C#",
-            "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
-            ]
-        },
-        {
-            "Question": "Whats the best programming language in the world",
-            "Answer": "C#",
-            "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
-            ]
-        },
-        {
-            "Question": "Whats the best programming language in the world",
-            "Answer": "C#",
-            "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
+                "C++",
+                "C#",
+                "HTML"
             ]
         }
     ],
     "Food": [
         {
-            "Question": "Whats the most common food in USA",
+            "Question": "What is USA's national dish?",
             "Answer": "Hamburger",
             "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
+                "Pizza",
+                "Pasta carbonara",
+                "Hamburger"
             ]
         },
         {
-            "Question": "Whats the most common food in USA",
+            "Question": "Based on which grape do you make red wine from?",
             "Answer": "Hamburger",
             "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
+                "Blue",
+                "Green",
+                "Red"
             ]
         },
         {
-            "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger",
+            "Question": "what year did Mcdonalds started its first restaurant?",
+            "Answer": "1940",
             "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
+                "1945",
+                "1960",
+                "1940"
             ]
         },
         {
-            "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger",
+            "Question": "What's soda have been sold the most globally?",
+            "Answer": "Coca-cola",
             "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
+                "Sprite",
+                "Coca-cola",
+                "DrPepper"
             ]
         },
         {
-            "Question": "Whats the most common food in USA",
-            "Answer": "Hamburger",
+            "Question": "When did the first ketchup recipie got created?",
+            "Answer": "1801",
             "ExampleAnswers": [
-                "test1",
-                "test1",
-                "test1"
+                "1920",
+                "1850",
+                "1801"
+            ]
+        }
+    ],
+    "General": [
+        {
+            "Question": "Which collage education is thos most popular?",
+            "Answer": "Jurist",
+            "ExampleAnswers": [
+                "Doctor",
+                "Jurist",
+                "Kitchener"
+            ]
+        },
+        {
+            "Question": "What does the most expensive phone cost?",
+            "Answer": "350 000",
+            "ExampleAnswers": [
+                "350 000",
+                "200 000",
+                "50 000"
             ]
         }
     ]
